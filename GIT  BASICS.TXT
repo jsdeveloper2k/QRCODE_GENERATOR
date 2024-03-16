@@ -1,0 +1,40 @@
+ THE BASICS COMMANDS FOR READING, ADDING, PUSHING, COMMITTING THE FILES FROM LOCAL TO GIT AND VISE VERSA :
+
+HOW TO CREATE REPOSITORY 
+    
+1. SIGN UP
+
+2. NEW
+
+3. REPO NAME
+
+4 ADDING FILES  - 4.1 BY ADDING EXISTING FILE  
+                                   
+                  4.2 CREATING NEW FILE
+NOTE 
+
+               WANT TO GIVE COMMIT MESSAGE 
+               
+               COMMIT MEANS SAVING THE FILES 
+
+              REPO MEANS NEW FOLDER IN GIT  
+
+
+COMMENTS IN COMMAND PROMPT 
+
+FOR CHECKING  : git 
+
+
+ FOR SETTING THE NAME IN OUR LOCAL MACHINE :
+
+ git  config  --global user . name  “js2kdeveloper”
+
+ git  config  --global user . email “karthirengaraj21@gmail.com ”
+
+
+COMMENTS FOR CLONING THE FOLDER FROM GIT REPO TO LOCAL FOLDER IN LOCAL MACHINE
+
+
+   GIT FOLDER =>  LOCAL FOLDER  IN VS CODE 
+
+    git clone  
